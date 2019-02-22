@@ -14,5 +14,5 @@ ReactDOM.render(
         /* code change */
         <App />
     </Provider> /* code change */,
-    document.getElementById('root')
+    document.getElementById('root');
 );
